@@ -12,4 +12,4 @@ Key checks:
 - UK–EU summit: BBC, FT, Euronews. Youth mobility and food agreements signed in Brussels.
 - Other briefs: Reuters, AP, BBC, AFP, IMD, DW and Al Jazeera coverage dated 20 Nov 2026.
 
-The picture is an original drawing made for this entry; no third-party artwork or photographs are used.
+The first hero illustration (Cyclone Akvan) was generated locally from a text-only prompt with no reference photograph; the proxy's output was cropped and downsampled, and all text, numbers, map and pins remain original vector drawing. No third-party artwork or photographs are used.
